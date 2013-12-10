@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScriptingWebApi", "ScriptingWebApi\ScriptingWebApi.csproj", "{0BF04BAB-E2D9-4273-B8BF-F6B9CBF6424E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScriptingWebApi.Tests", "ScriptingWebApi.Tests\ScriptingWebApi.Tests.csproj", "{BBDAE735-91BF-4427-B594-FAC5A5859E23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFSAccessLayer", "TFSAccessLayer\TFSAccessLayer.csproj", "{E79BEE53-F0C8-44BA-B355-1A10DBFDDFB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TFSAccessLayerTests", "TFSAccessLayerTests\TFSAccessLayerTests.csproj", "{0C85AC81-208B-4765-852C-18D8CD120584}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BF04BAB-E2D9-4273-B8BF-F6B9CBF6424E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BF04BAB-E2D9-4273-B8BF-F6B9CBF6424E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BF04BAB-E2D9-4273-B8BF-F6B9CBF6424E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BF04BAB-E2D9-4273-B8BF-F6B9CBF6424E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBDAE735-91BF-4427-B594-FAC5A5859E23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBDAE735-91BF-4427-B594-FAC5A5859E23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBDAE735-91BF-4427-B594-FAC5A5859E23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBDAE735-91BF-4427-B594-FAC5A5859E23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E79BEE53-F0C8-44BA-B355-1A10DBFDDFB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E79BEE53-F0C8-44BA-B355-1A10DBFDDFB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E79BEE53-F0C8-44BA-B355-1A10DBFDDFB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E79BEE53-F0C8-44BA-B355-1A10DBFDDFB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C85AC81-208B-4765-852C-18D8CD120584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C85AC81-208B-4765-852C-18D8CD120584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C85AC81-208B-4765-852C-18D8CD120584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C85AC81-208B-4765-852C-18D8CD120584}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
